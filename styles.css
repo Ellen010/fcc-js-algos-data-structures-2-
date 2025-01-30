@@ -1,10 +1,9 @@
-
 body {
-  background-color: #0a0a23;
+  background-color: #b6c4a2;
 }
 
 #text {
-  background-color: #0a0a23;
+  background-color: #285943;
   color: #ffffff;
   padding: 10px;
 }
@@ -12,7 +11,7 @@ body {
 #game {
   max-width: 500px;
   max-height: 400px;
-  background-color: #ffffff;
+  background-image: linear-gradient(#f3a391, #d4a373);;
   color: #ffffff;
   margin: 30px auto 0px;
   padding: 10px;
@@ -40,7 +39,7 @@ body {
 button {
   cursor: pointer;
   color: #0a0a23;
-  background-color: #feac32;
-  background-image: linear-gradient(#fecc4c, #ffac33);
-  border: 3px solid #feac32;
+  background-color: #6279b8;
+  background-image: linear-gradient(#8ea4d2, #6279b8);
+  border: 3px solid #6279b8;
 }
